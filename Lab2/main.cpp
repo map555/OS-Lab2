@@ -1,15 +1,46 @@
 #include <iostream>
 using namespace std;
 
-int ressourcesAlloue[5][5];
-int ressourcesMaxDemandees[5][5];
-int ressourcesTotal[5];
+int ressourcesTotal[5] = {12, 20, 14, 8, 16};
+int C[5][5];
+
+void CalculerC() {
+
+     
+
+
+
+}
+
+
+
+void GenererA() {
+
+
+
+
+
+}
+
+
+
+void CalculerCMoinsA() {
+
+
+
+
+
+}
+
+
+
 
 int main() {
 
-    cout << "Bonsoir";
 
-    getchar();
+
+
+
 
     return 0;
 }
